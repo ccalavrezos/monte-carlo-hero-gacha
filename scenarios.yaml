@@ -1,0 +1,5 @@
+- name: test
+  CONFIG:
+    total_players: 10
+    num_weeks: 1
+    batch_max_players: 10
